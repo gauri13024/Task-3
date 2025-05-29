@@ -23,28 +23,16 @@ Postman (for API testing)
 In-memory array (for temporary data storage)
 
 📂 How to Run
-Clone the repo:
 
-bash
-Copy
-Edit
+Clone the repo:
 git clone https://github.com/your-username/book-api.git
 cd book-api
+
 Install dependencies:
-
-bash
-Copy
-Edit
 npm install
+
 Start the server:
-
-bash
-Copy
-Edit
 node index.js
-Open Postman and test the API at:
 
-bash
-Copy
-Edit
+Open Postman and test the API at:
 http://localhost:3000/books
